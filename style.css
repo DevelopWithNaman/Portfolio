@@ -78,3 +78,10 @@ footer {
     padding: 10px 20px;
     text-decoration: none;
 }
+
+.profile-image {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
